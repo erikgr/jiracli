@@ -9,9 +9,11 @@ List jira issues from the terminal
 Edit the filters to match your organisation.
 Set (or export) the following env variables:
 
+```
 JIRA_API_USER  .......  This is your email address
 JIRA_API_TOKEN  ......  This can be generated from 
                         account settings -> security -> manage api tokens
+```
 
 call with:
 

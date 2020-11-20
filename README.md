@@ -1,4 +1,4 @@
-# joira CLI
+# jira CLI
 
 List jira issues from the terminal
 
